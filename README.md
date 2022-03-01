@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I'm Kasia, front-end engineer [@Kinside](https://www.kinside.com/), based in beautiful Kraków (Poland)
+I'm Kasia, front-end engineer [@Brainly](https://www.brainly.com/), based in beautiful Kraków (Poland)
 
 *My resume you can find here [katarzynatobis.github.io](https://katarzynatobis.github.io/)*
 
